@@ -2,7 +2,6 @@
 
 My very own personal website. Basically this is just a Donald Trump résumé. 
 
-"🧙Hocus-pocus!"
 
 ![screenshot of sample](./assets/images/resume_screenshot.png)
 
