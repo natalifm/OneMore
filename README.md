@@ -1,6 +1,6 @@
 # Homepage
 
-My very own personal website. Basically this is just a Donald Trump résumé.
+My very own personal website. Basically this is just a Donald Trump résumé. :sunglasses:
 
 ![screenshot of sample](./assets/images/resume_screenshot.png)
 
